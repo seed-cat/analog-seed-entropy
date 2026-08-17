@@ -38,7 +38,7 @@ Advanced users can verify the address derivation is correct to keep hardware ven
 
 ### Instructions
 1. Roll two dice, rerolling if you get doubles below 5 (reroll ⚀⚀, ⚁⚁, ⚂⚂, ⚃⚃)
-2. Repeat the previous step, so that you have 3rd and 4th dice roll
+2. Repeat the previous step, so that you have total of 4 dice rolls
 3. Finally, roll a single die, giving you a 5th dice roll which will either be low (⚀⚁⚂) or high (⚃⚄⚅)
 4. Consult the [dice lookup table](https://seed-cat.github.io/analog-seed-entropy/dice.html) to find your seed word
 5. Repeat until you have enough seed words
