@@ -17,7 +17,7 @@ Advanced users can verify the address derivation is correct to keep hardware ven
 1. Create a deck of 14 cards by taking all spade cards (♠) and the ace-of-hearts (A♥)
 2. Perform a [wash shuffle](https://en.wikipedia.org/wiki/Shuffling#Corgi) by mixing the cards thoroughly face-down on a table
 3. Square up the deck and deal out 3 cards
-4. Consult the [card lookup table]([cards.html](https://seed-cat.github.io/analog-seed-entropy/cards.html)) to find your seed word
+4. Consult the [card lookup table](https://seed-cat.github.io/analog-seed-entropy/cards.html) to find your seed word
 5. If your 1st card is A♥ and you can't find your cards in the lookup table, reshuffle **ALL the cards** and try again
 6. Repeat until you have enough seed words
 
